@@ -54,11 +54,12 @@ p {
 }
 
 .offer-title-bold {
-    font-size: 42px;
+    font-size: 44px;
 }
 
 .offer-text {
     width: 390px;
+    margin-top: 0;
     margin-bottom: 50px;
 }
 
@@ -92,7 +93,7 @@ p {
 }
 
 .ticket {
-    background-color: #efecf4;
+    background-color: #ecf3f8;
     padding-top: 110px;
     padding-bottom: 110px;
 }
@@ -105,7 +106,7 @@ p {
 
 .block {
     text-align: center;
-    width: 290px;
+    width: 284px;
 }
 
 .block-title {
@@ -137,7 +138,9 @@ p {
 }
 
 .ticket-button {
-    background-color: #ffd429;;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #ffd429;
+    font-size: 15px;
     font-weight: 900;
     width: 340px;
     height: 50px;
